@@ -1,0 +1,24 @@
+
+Given N and K and a list of numbers find the Kth minimum number and Kth maximum number.
+
+INPUT
+	first line contains the number of testcases N,followed by N cases as specified below
+	Two integers N and K.
+	Next line contains N space seperated integers.
+
+	10<=T<=100
+	10 <= N,K,<=1000000
+	1<=LIST[i]<=1000
+OUTPUT
+	write to a file the kth Smallest and and kth Largest numbers on a single line
+	and push to  github
+
+SAMPLE INPUT
+	3
+	3 2
+	1 2 3
+	5 2
+	3 7 5 9 2
+SAMPLE RESULT
+	2 2
+	2 7
